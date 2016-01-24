@@ -2,14 +2,14 @@
 
 This is my first proper web-based .NET application which is made to provide direct download link from one of these:
 
-> Mediafire links (can also fetch from Embedupload)
-> Rapidshare links
-> Jumbofiles links
-> 2Shared links
-> 180Upload links
-> 4Shared links
-> ZOMG Upload links
-> Zippyshare links
+> Mediafire links (can also fetch from Embedupload), 
+> Rapidshare links, 
+> Jumbofiles links, 
+> 2Shared links, 
+> 180Upload links, 
+> 4Shared links, 
+> ZOMG Upload links, 
+> Zippyshare links, 
 > Depositfiles links
 
 Features:
