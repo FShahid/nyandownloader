@@ -30,6 +30,6 @@
 
 ### Requirements:
 
-> Windows XP (SP3), Vista (SP1 or above), Windows 7, Windows 8/8.1 or Windows 10)
+> Windows XP (SP3), Vista (SP1 or above), Windows 7, Windows 8/8.1 or Windows 10
 
 > .NET Framework 2.0
