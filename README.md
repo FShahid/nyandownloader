@@ -12,7 +12,7 @@
 
 * Ability to process Mediafire folder links to fetch and process download links from them
 
-* Reads link from Clipboard if you don't feel like pasting the links =P
+* Read multiple links from Clipboard if you don't feel like pasting the links =P
 
 * Copy generated links to Clipboard
 
