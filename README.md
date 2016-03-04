@@ -1,4 +1,4 @@
-# NyanDownloader - Multi FileHost Downloader
+# Nyan Downloader - Multi FileHost Downloader
 
 ##### This is my first proper web-based .NET application which is made to provide direct download link from one of these:
 
