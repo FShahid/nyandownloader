@@ -1,4 +1,4 @@
-# NyanDownloader - Multi FileHost Downloader
+# Nyan Downloader - Multi FileHost Downloader
 
 ##### This is my first proper web-based .NET application which is made to provide direct download link from one of these:
 
@@ -30,6 +30,8 @@
 
 ### Requirements:
 
-> Windows XP (SP3), Vista (SP1 or above), Windows 7, (online music might not work on Windows 8/8.1 or Windows 10)
+> Windows XP (SP3), Vista (SP1 or above), Windows 7, Windows 8/8.1 or Windows 10
 
-> .NET Framework 2.0
+> .NET Framework 2.0 Installed
+
+> Working Internet Connection
