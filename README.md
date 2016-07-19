@@ -2,7 +2,7 @@
 
 ##### This is my first proper web-based .NET application which is made to provide direct download link from one of these:
 
-* Mediafire links (can also fetch from Embedupload), SolidFiles links, Uptobox links, 2Shared links, ZippyShare links, 4Shared links, UsersCloud links, 180Upload links, Depositfiles links
+* Mediafire links (can also fetch from Embedupload), Solidfiles links, Uptobox links, 2Shared links, ZippyShare links, 4Shared links, UsersCloud links, 180Upload links, Depositfiles links
 
 ### Features:
 
